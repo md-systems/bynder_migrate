@@ -1,0 +1,8 @@
+name: Bynder Migrate
+description: 'Bynder migration functionality'
+type: module
+package: Media
+core_version_requirement: ^9.2 || ^10
+
+dependencies:
+  - drupal:bynder

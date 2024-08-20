@@ -1,0 +1,11 @@
+{
+  "name": "drupal/bynder_migrate",
+  "description": "Provides Drupal Bynder Migration functionality",
+  "type": "drupal-module",
+  "require": {
+    "drupal/bynder": "~4.2"
+  },
+  "suggest": {
+    "drupal/entity_usage": "Required for the optional submodule bynder_usage."
+  }
+}
