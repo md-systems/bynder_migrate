@@ -1,0 +1,7 @@
+bynder_migrate.migrate:
+  path: '/media/{media}/bynder-migrate'
+  defaults:
+    _form: '\Drupal\bynder_migrate\Form\BynderMigrateForm'
+    _title: 'Upload to Bynder'
+  requirements:
+    _permission: 'migrate local media to bynder'

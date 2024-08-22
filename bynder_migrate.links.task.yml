@@ -1,0 +1,5 @@
+bynder_usage:
+  route_name: bynder_migrate.migrate
+  title: 'Upload to Bynder'
+  base_route: entity.media.canonical
+  weight: 100
